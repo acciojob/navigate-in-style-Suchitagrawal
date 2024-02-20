@@ -5,8 +5,12 @@
 	/* display: inline; */
 	margin-right: 1rem;
 }
+nav ul{
+	display: flex;
+}
 nav ul li{
 	list-style-type: none;
-	display: inline;
+	/* display: ; */
 	padding: 10px;
+	margin-right: 16px;
 }
